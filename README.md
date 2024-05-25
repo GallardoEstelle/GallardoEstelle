@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Estelle
-- 👀 I’m interested in Data Analysis
+- 👋 Hi, I’m Stella
+- 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Machine Learning and Tableau
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
